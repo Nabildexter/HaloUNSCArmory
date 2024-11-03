@@ -1,0 +1,11 @@
+#navigation {
+    background-color: var(--negative);
+    box-shadow: var(--shadow);
+
+    border-radius: 0 0 var(--roundMD) var(--roundMD);
+    
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 49;
+}

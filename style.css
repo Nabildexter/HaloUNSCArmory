@@ -1,0 +1,27 @@
+/* Google Font Black Ops */
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Roboto&display=swap');
+
+/* Wireframming testing css */
+/* @import url('./css/wireframing.css'); */
+
+/* css base */
+@import url('./css/color.css');
+@import url('./css/spacing.css');
+@import url('./css/type.css');
+
+
+/* Import other componenets css */
+@import url('./css/bs.css');
+@import url('./css/images.css');
+@import url('./css/navbar.css');
+@import url('./css/sidebar.css');
+@import url('./css/main-content.css');
+@import url('./css/button.css');
+@import url('./css/link.css');
+@import url('./css/footer.css');
+@import url('./css/body.css');
+
+
+
+/* Import bootstrap grid css */
+@import url('./css/bsgrid.css');

@@ -1,0 +1,16 @@
+img:nth-child(1){
+    width: 100%;
+    height: auto;
+    border-radius: 50px; 
+    scale: 1.0;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+
+}
+
+/* https://media.sketchfab.com/models/6a3cad623c5849dfae2a650daf8d67ce/thumbnails/05d1c01604654f778bd6bc6bc72ff832/843ea1b39f5d49348e9c9d7d05f9c006.jpeg */
+/* https://galacticarmory.net/products/halo-infinite-battle-rifle-diy */

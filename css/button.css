@@ -1,0 +1,22 @@
+button {
+    background: var(--accent);
+    color: var(--negative);
+    padding: var(--spaceMD) var(--spaceLG);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: var(--roundXS);
+
+}
+
+button:hover{
+    transform: scale(1.1);
+    background: var(--accentHover);
+    color: var(--dark);
+}
+
+@media(max-width:576px){
+    button {
+        width: 100%;
+    }
+}

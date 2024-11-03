@@ -1,0 +1,18 @@
+/* https://coolors.co/898a8c-51656d-e2d9d0-727275-0a0a0a */
+
+:root {
+    /* Color Palette */
+    --primaryHover: #51656D;
+    --text: #393a36;
+    --negative: #ffffff;    
+    --shadow: #727275;
+    --dark: #2C170B;
+    --highlight: #E2D9D0;
+    --light: #dad3c8;
+    --accent: #51656D;
+    --accentHover: #E2D9D0;
+    
+    /* Box Shadow */
+    --shadow: 0 0 20px 5px #51656d93;
+    --shadowHover: 0 0 20px 10px rgba(0, 0, 0, 0.15);
+}
